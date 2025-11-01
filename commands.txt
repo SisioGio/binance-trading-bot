@@ -1,0 +1,9 @@
+uv run agent.py console
+uv run agent.py dev  
+
+- Create new project
+-Create new API key
+- Update agent name in agent.py
+- Paste LIVE KEY keys into .env file
+- Run lk cloud auth to select new project
+

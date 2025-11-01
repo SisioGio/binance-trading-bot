@@ -1,0 +1,6 @@
+livekit-agents>=1.2.0
+python-dotenv
+livekit-plugins-aws[realtime]
+livekit-plugins-noise-cancellation
+livekit-agents[turn-detector]
+livekit-agents[openai]~=1.2
